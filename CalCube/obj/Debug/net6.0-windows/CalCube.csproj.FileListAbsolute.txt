@@ -1,0 +1,17 @@
+F:\C# Projects\CalCube\CalCube\bin\Debug\net6.0-windows\CalCube.exe
+F:\C# Projects\CalCube\CalCube\bin\Debug\net6.0-windows\CalCube.deps.json
+F:\C# Projects\CalCube\CalCube\bin\Debug\net6.0-windows\CalCube.runtimeconfig.json
+F:\C# Projects\CalCube\CalCube\bin\Debug\net6.0-windows\CalCube.dll
+F:\C# Projects\CalCube\CalCube\bin\Debug\net6.0-windows\CalCube.pdb
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.csproj.AssemblyReference.cache
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.Form1.resources
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.csproj.GenerateResource.cache
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.AssemblyInfoInputs.cache
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.AssemblyInfo.cs
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.csproj.CoreCompileInputs.cache
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.dll
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\refint\CalCube.dll
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.pdb
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\CalCube.genruntimeconfig.cache
+F:\C# Projects\CalCube\CalCube\obj\Debug\net6.0-windows\ref\CalCube.dll
